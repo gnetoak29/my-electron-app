@@ -1,0 +1,8 @@
+{
+  "name": "exit",
+  "version": "1.0.0",
+  "description": "https://github.com/dualshock-tools/dualshock-tools.github.io",
+  "main": "index.js",
+  "repository": "https://github.com/<username>/my-electron-app.git",
+  "license": "MIT"
+}
